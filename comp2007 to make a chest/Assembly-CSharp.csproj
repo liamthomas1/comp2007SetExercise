@@ -57,8 +57,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\script\opening.cs" />
-    <Compile Include="Assets\script\health.cs" />
+    <Compile Include="Assets\script\test.cs" />
     <Compile Include="Assets\script\damage.cs" />
+    <Compile Include="Assets\script\health.cs" />
+    <Compile Include="Assets\script\takeover.cs" />
+    <Compile Include="Assets\script\damagetake.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
