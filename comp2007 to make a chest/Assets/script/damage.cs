@@ -61,5 +61,6 @@ public class damage : MonoBehaviour
             Health.Sethealth(currenthealth);
         }
     }
+    
 }
 

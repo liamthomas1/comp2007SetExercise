@@ -13,6 +13,10 @@ public class loadscenes : MonoBehaviour
 	{
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
 	}
+	public void Theend()
+	{
+		Application.Quit();
+	} 
 	public void Update()
 	{
 		
